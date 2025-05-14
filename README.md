@@ -4,7 +4,7 @@
 
 The hydrogenase database (HydDB) provides information pages for different groups of hydrogenases, and a sequence classifier tool for predicting the putative functions of input hydrogenase sequences.
 
-The HydDB is described in Søndergaard1, Pedersen, & Chris Greening (2016) *Scientific Reports* (<https://doi.org/10.1038/srep34212>)
+The HydDB is described in Søndergaard, Pedersen, & Chris Greening (2016) *Scientific Reports* (<https://doi.org/10.1038/srep34212>)
 
 ## Installing and hosting the HydDB locally
 
@@ -26,9 +26,9 @@ docker image pull jameslingford/hyddb-website:dev2
 Alternatively, you can build the [Docker](https://www.docker.com) image from scratch by cloning this git repository and running Docker build:
 
 ```bash
-git clone https://github.com/jlingford/hyddb_web
-cd hyddb_web
-docker build -t jameslingford/hyddb-website .
+git clone https://github.com/GreeningLab/HydDB-webserver
+cd HydDB-webserver
+docker build -t hyddb-website .
 ```
 
 ### Running the website locally

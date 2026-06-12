@@ -6,6 +6,8 @@ The hydrogenase database (HydDB) provides information pages for different groups
 
 The HydDB is described in Søndergaard1, Pedersen, & Chris Greening (2016) *Scientific Reports* (<https://doi.org/10.1038/srep34212>)
 
+A mirror of the original webserver is hosted at <https://hyddb.net/>
+
 ## Installing and hosting the HydDB locally
 
 You can use Docker to host the website locally on your own machine.
